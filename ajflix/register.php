@@ -19,6 +19,10 @@
   <body>
     <div class="signInContainer">
       <div class="column">
+        <div class="header">
+          <h3>Sign Up</h3>
+          <span>to continue</span>
+        </div>
         <form action="" method="POST">
           <input type="text" name="firstName" placeholder="First Name" required>
           <input type="text" name="lastName" placeholder="Last Name" required>
